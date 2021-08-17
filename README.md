@@ -46,13 +46,17 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
  ```bash
  # Clone este repositório
-$ git clone  <https://github.com/Zeonnatios/trybewallet/>
+$ git clone  <https://github.com/Zeonnatios/trybewallet>
+
 # Acesse a pasta do projeto no terminal/cmd
 $ cd trybewallet/
+
 # Instale as dependências
 $ npm install
+
 # Execute a aplicação
 $ npm start
+
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
  <h2>:eyes: Demonstração</h2>
