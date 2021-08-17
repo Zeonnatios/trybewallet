@@ -10,6 +10,7 @@ Esse projeto foi desenvolvido durante o curso da Trybe no módulo de Front-end, 
   <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#hammer_and_wrench-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#cloud-apis">APIs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#notebook-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#eyes-demonstração">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
@@ -32,6 +33,10 @@ Este projeto é a representação de uma carteira de controle de gastos com conv
 - [x] Adicionar, remover e editar um gasto;
 - [x] Visualizar uma tabelas com seus gastos;
 - [x] Visualizar o total de gastos convertidos para uma moeda de escolha;
+
+<h2>:cloud: APIs</h2>
+
+- [Economia](https://economia.awesomeapi.com.br/json/all)
 
 <h2>:notebook: Instalação</h2>
 <h3>Pré-requisitos</h3>
